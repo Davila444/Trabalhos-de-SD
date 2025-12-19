@@ -1,2 +1,2 @@
-#  Laboratório_Sprint_boot 
+#  Laboratorio_Sprint_boot 
 Trabalho de Sistemas Distribuídos
