@@ -1,2 +1,2 @@
-# Trabalhos-de-SD
-Laboratórios de Sistemas Distribuídos
+#  Laboratório Sprint boot 
+Trabalho de Sistemas Distribuídos
